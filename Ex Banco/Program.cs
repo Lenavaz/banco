@@ -45,6 +45,8 @@ namespace Ex_Banco
 
         
             Console.WriteLine(cb);
+
+            Console.WriteLine("Teste");
         }
 
         
