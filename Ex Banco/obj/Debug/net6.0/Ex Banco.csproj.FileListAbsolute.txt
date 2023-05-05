@@ -1,0 +1,15 @@
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\obj\Debug\net6.0\Ex Banco.csproj.AssemblyReference.cache
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\obj\Debug\net6.0\Ex Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\obj\Debug\net6.0\Ex Banco.AssemblyInfoInputs.cache
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\obj\Debug\net6.0\Ex Banco.AssemblyInfo.cs
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\obj\Debug\net6.0\Ex Banco.csproj.CoreCompileInputs.cache
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\bin\Debug\net6.0\Ex Banco.exe
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\bin\Debug\net6.0\Ex Banco.deps.json
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\bin\Debug\net6.0\Ex Banco.runtimeconfig.json
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\bin\Debug\net6.0\Ex Banco.dll
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\bin\Debug\net6.0\Ex Banco.pdb
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\obj\Debug\net6.0\Ex Banco.dll
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\obj\Debug\net6.0\refint\Ex Banco.dll
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\obj\Debug\net6.0\Ex Banco.pdb
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\obj\Debug\net6.0\Ex Banco.genruntimeconfig.cache
+C:\Users\cesae\OneDrive - CESAE\Ambiente de Trabalho\Projectos Window Forms\Ex Banco\Ex Banco\obj\Debug\net6.0\ref\Ex Banco.dll
